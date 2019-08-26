@@ -1,5 +1,4 @@
-# privacypolicy1
-This is the first privacy policy with no information collection.
+# Data Policy
 
 This policy describes the information we process to support Chalkpad app offered by solar hydro.
 
