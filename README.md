@@ -21,7 +21,7 @@ We don’t entertain any legal requests regarding sharing of information or hand
 ### IV. How will we notify you of changes to this policy?
 Changes to this policy will be reflected through appropriate channels and you might have the opportunity to review the revised policy before you choose to continue using our Products.
 
-### V. How to contact Facebook with questions
+### V. How to contact solarhydro with questions
 You can learn more about how privacy works on Chalkpad app. If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices.  
 <br />
 You can contact us at: repaindustries@gmail.com
