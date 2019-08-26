@@ -1,4 +1,6 @@
-# Data Policy
+# solar hydro
+
+## Data Policy:
 
 This policy describes the information we process to support Chalkpad app offered by solar hydro.
 
